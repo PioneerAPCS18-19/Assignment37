@@ -35,9 +35,4 @@ public class StudentAnswerSheet
     { 
         return name; 
     }
-
-    public static void main(String[] args)
-    {
-        // testing
-    }
 }
