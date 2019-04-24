@@ -1,6 +1,6 @@
 # Assignment 37
 
-Skeleton classes are provided for parts 1 and 2 below. A runner class is required with your test methods to make sure they work. 
+Skeleton classes are provided for parts 1 and 2 below. Use `main` with test methods to make sure your code works. 
 
 ## Part 1
 
@@ -9,9 +9,6 @@ A positive integer is called a "self-divisor" if every decimal digit of the numb
 1. Write method `isSelfDivisor`, which takes a positive integer as its parameter. This method returns true if the number is a self-divisor; otherwise, it returns false.
 
 2. Write method `firstNumSelfDivisors`, which takes two positive integers as parameters, representing a start value and a number of values. Method `firstNumSelfDivisors` returns an array of size num that contains the first num self-divisors that are greater than or equal to start. For example, the call `firstNumSelfDivisors(10, 3)` should return an array containing the values 11, 12, and 15, because the first three self-divisors that are greater than or equal to 10 are 11, 12, and 15. In writing `firstNumSelfDivisors`, make sure you use the method `isSelfDivisor`.
-
-Skeleton class is provided. A runner class is not required, but test your methods to make sure they work. In BlueJ you can right-click (CTRL-click) on the class and run any method in the class on its own to test.
-
 
 ## Part 2
 
